@@ -1,0 +1,13 @@
+# Operating system cruft
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.log
+*.zip
+*.tar
+*.tar.gz
+
+# Dependency directories
+/node_modules/
+/vendor/
